@@ -1,5 +1,4 @@
-# best-practices
-This is my private repostory for practicing my minding of technologies
+
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
